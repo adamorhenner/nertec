@@ -2,12 +2,12 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "NERTEC | Francisco Nertan Assistência Técnica",
+  title: "NERTEC | Nertan Castro Assistência Técnica",
   description:
     "Assistência técnica em computadores e notebooks. Manutenção, formatação, remoção de vírus, instalação de programas, troca de peças e suporte técnico.",
   keywords: [
     "NERTEC",
-    "Francisco Nertan",
+    "Nertan Castro",
     "assistência técnica",
     "manutenção de computador",
     "manutenção de notebook",
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     "suporte técnico",
   ],
   openGraph: {
-    title: "NERTEC | Francisco Nertan Assistência Técnica",
+    title: "NERTEC | Nertan Castro Assistência Técnica",
     description:
       "Manutenção, formatação, remoção de vírus e suporte técnico para computadores e notebooks.",
     type: "website",

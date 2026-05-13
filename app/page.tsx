@@ -54,7 +54,7 @@ export default function Home() {
                 NERTEC
               </strong>
               <span className="text-sm text-slate-500">
-                Francisco Nertan Assistência Técnica
+                Nertan Castro Assistência Técnica
               </span>
             </div>
           </a>
