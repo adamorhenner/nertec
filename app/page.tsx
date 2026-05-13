@@ -131,7 +131,7 @@ export default function Home() {
         <div className="rounded-[2rem] bg-white p-4 shadow-2xl">
           <div className="relative min-h-[420px] overflow-hidden rounded-[1.5rem] bg-[#34495f]">
             <Image
-              src="/francisco-nertan.png"
+              src="/francisco-nertan.jpeg"
               alt="Francisco Nertan, especialista em assistência técnica"
               fill
               priority
@@ -141,7 +141,7 @@ export default function Home() {
 
             <div className="absolute inset-x-4 bottom-4 rounded-3xl bg-white/95 p-5 shadow-xl">
               <strong className="block text-lg text-[#34495f]">
-                Francisco Nertan
+                Nertan Castro
               </strong>
               <p className="mt-1 text-sm text-slate-600">
                 Assistência técnica em hardware, software e otimização de
